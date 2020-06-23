@@ -45,5 +45,7 @@ body, html {
 label {
     display: inline-block;
     margin-bottom: .5rem;
-    color: coral;
+    color: balck;
 }
+li{
+    background-color: white;
